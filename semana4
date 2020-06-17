@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Primera Pagina</title>
+    <script type="text/javascript">
+        var nombres = array("J","j","Matias"
+        if (nombres[0] == "J") {
+            console.log("GoodBye Juan")
+        }
+        if (nombres[1] == "j") {
+            console.log("GoodBye jacinto")
+        }
+    </script>
+    
+</head>
+<body>
+<nav id="header-nav" class="navbar navbar-default">
+	
+	
+</nav>
+<section>
+
+</section>
+</body>
+</html>
